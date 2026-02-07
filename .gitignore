@@ -1,0 +1,12 @@
+# binaries
+eksdoctor
+
+# outputs
+*.json
+
+# editor
+.vscode/
+.idea/
+
+# go
+go.sum
